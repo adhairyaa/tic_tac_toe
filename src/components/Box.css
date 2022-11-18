@@ -1,0 +1,7 @@
+.boxContainer button {
+border: none;
+height: 50px;
+width: 50px;
+background-color: rgb(0, 183, 193);
+font-weight: 2em;
+}
